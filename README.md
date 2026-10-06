@@ -12,7 +12,6 @@ With experience in front-end development and systems administration, I specializ
 
 I am passionate about learning new technologies and tackling complex challenges that allow me to grow both professionally and personally.
 
-* You can visit my personal website: https://sanchezdev.es
 
 </div>
 
