@@ -4,7 +4,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="start">
 
 ### Languages
 
