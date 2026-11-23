@@ -2,6 +2,20 @@
 
 ### Web Developer · FiveM Scripts Developer
 
+
+# :rocket: About Me
+
+<div align="start">
+
+Hi! I'm Pablo Sánchez, a developer passionate about creating exceptional digital experiences and innovative technological solutions.
+
+With experience in front-end development and systems administration, I specialize in transforming creative ideas into functional and attractive digital products. My focus is on writing clean, efficient, and maintainable code. 
+
+I am passionate about learning new technologies and tackling complex challenges that allow me to grow both professionally and personally.
+
+
+</div>
+
 ## 💻 Technologies & Tools
 
 ### Languages
@@ -28,19 +42,6 @@
 ## 📊 GitHub Statistics
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paabloosaancheez&theme=github_dark" alt="GitHub Statistics" width="100%" />
-
-# :rocket: About Me
-
-<div align="start">
-
-Hi! I'm Pablo Sánchez, a developer passionate about creating exceptional digital experiences and innovative technological solutions.
-
-With experience in front-end development and systems administration, I specialize in transforming creative ideas into functional and attractive digital products. My focus is on writing clean, efficient, and maintainable code. 
-
-I am passionate about learning new technologies and tackling complex challenges that allow me to grow both professionally and personally.
-
-
-</div>
 
 ## :globe_with_meridians: Connect With Me
 
