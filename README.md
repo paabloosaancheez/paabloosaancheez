@@ -1,8 +1,8 @@
-# <img src="https://api.iconify.design/mdi/hand-wave.svg?color=%23ffffff" width="44" align="center" /> Hey, I'm Sanchez!
+# <img src="icons/wave.svg" height="40" align="top" /> Hey, I'm Sanchez!
 
 ### Web Developer · FiveM Scripts Developer
 
-# <img src="https://api.iconify.design/tabler/rocket.svg?color=%23ffffff" width="44" align="center" /> About Me
+# <img src="icons/about.svg" height="40" align="top" /> About Me
 
 <div align="start">
 
@@ -15,7 +15,7 @@ I am passionate about learning new technologies and tackling complex challenges 
 
 </div>
 
-## <img src="https://api.iconify.design/tabler/device-laptop.svg?color=%23ffffff" width="34" align="center" /> Technologies & Tools
+## <img src="icons/tech.svg" height="30" align="top" /> Technologies & Tools
 
 ### Languages
 
@@ -31,17 +31,16 @@ I am passionate about learning new technologies and tackling complex challenges 
 
 ### DevOps & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=docker,grafana&theme=dark" alt="Docker, Grafana" />
-<img src="https://skills.syvixor.com/api/icons?i=influxdb" alt="InfluxDB" />
+<img src="https://skillicons.dev/icons?i=docker,grafana&theme=dark" alt="Docker, Grafana" /> <img src="https://skills.syvixor.com/api/icons?i=influxdb" alt="InfluxDB" />
 
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
 
-## <img src="https://api.iconify.design/tabler/chart-bar.svg?color=%23ffffff" width="34" align="center" /> GitHub Statistics
+## <img src="icons/stats.svg" height="30" align="top" /> GitHub Statistics
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paabloosaancheez&theme=github_dark&name=paabloosaancheez" alt="GitHub Statistics" width="70%" />
 
-## <img src="https://api.iconify.design/tabler/world.svg?color=%23ffffff" width="34" align="center" /> Connect With Me
+## <img src="icons/connect.svg" height="30" align="top" /> Connect With Me
 
 <a href="mailto:sanncheezdev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" /></a>
