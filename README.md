@@ -1,8 +1,21 @@
-# <img src="https://api.iconify.design/mdi/hand-wave.svg?color=%2358a6ff" width="32" align="center" /> Hey, I'm Sanchez!
+# <img src="https://api.iconify.design/mdi/hand-wave.svg?color=%23ffffff" width="44" align="center" /> Hey, I'm Sanchez!
 
 ### Web Developer · FiveM Scripts Developer
 
-## <img src="https://api.iconify.design/tabler/device-laptop.svg?color=%2358a6ff" width="26" align="center" /> Technologies & Tools
+# <img src="https://api.iconify.design/tabler/rocket.svg?color=%23ffffff" width="44" align="center" /> About Me
+
+<div align="start">
+
+Hi! I'm Pablo Sánchez, a developer passionate about creating exceptional digital experiences and innovative technological solutions.
+
+With experience in front-end development and systems administration, I specialize in transforming creative ideas into functional and attractive digital products. My focus is on writing clean, efficient, and maintainable code. 
+
+I am passionate about learning new technologies and tackling complex challenges that allow me to grow both professionally and personally.
+
+
+</div>
+
+## <img src="https://api.iconify.design/tabler/device-laptop.svg?color=%23ffffff" width="34" align="center" /> Technologies & Tools
 
 ### Languages
 
@@ -25,23 +38,10 @@
 
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
 
-## <img src="https://api.iconify.design/tabler/chart-bar.svg?color=%2358a6ff" width="26" align="center" /> GitHub Statistics
+## <img src="https://api.iconify.design/tabler/chart-bar.svg?color=%23ffffff" width="34" align="center" /> GitHub Statistics
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paabloosaancheez&theme=github_dark&name=paabloosaancheez" alt="GitHub Statistics" width="70%" />
 
-# <img src="https://api.iconify.design/tabler/rocket.svg?color=%2358a6ff" width="32" align="center" /> About Me
+## <img src="https://api.iconify.design/tabler/world.svg?color=%23ffffff" width="34" align="center" /> Connect With Me
 
-<div align="start">
-
-Hi! I'm Pablo Sánchez, a developer passionate about creating exceptional digital experiences and innovative technological solutions.
-
-With experience in front-end development and systems administration, I specialize in transforming creative ideas into functional and attractive digital products. My focus is on writing clean, efficient, and maintainable code. 
-
-I am passionate about learning new technologies and tackling complex challenges that allow me to grow both professionally and personally.
-
-
-</div>
-
-## <img src="https://api.iconify.design/tabler/world.svg?color=%2358a6ff" width="26" align="center" /> Connect With Me
-
-[![Email](https://img.shields.io/badge/EMAIL-sanncheezdev@gmail.com-c4523c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanncheezdev@gmail.com)
+<a href="mailto:sanncheezdev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" /></a>
