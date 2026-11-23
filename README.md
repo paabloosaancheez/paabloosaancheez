@@ -32,8 +32,7 @@ I am passionate about learning new technologies and tackling complex challenges 
 
 ### DevOps & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=docker,grafana&theme=dark" alt="Docker, Grafana" />
-<img src="https://skills.syvixor.com/api/icons?i=influxdb" alt="InfluxDB" />
+<img src="https://skillicons.dev/icons?i=docker,grafana&theme=dark" alt="Docker, Grafana" /> <img src="https://skills.syvixor.com/api/icons?i=influxdb" alt="InfluxDB" />
 
 ### Databases
 
