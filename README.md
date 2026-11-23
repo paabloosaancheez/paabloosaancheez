@@ -2,7 +2,7 @@
 
 ### Web Developer · FiveM Scripts Developer
 
-# <img src="icons/about.svg" height="40" align="top" /> About Me
+## <img src="icons/about.svg" height="30" align="top" /> About Me
 
 <div align="start">
 
