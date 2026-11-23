@@ -40,7 +40,7 @@ I am passionate about learning new technologies and tackling complex challenges 
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paabloosaancheez&theme=github_dark" alt="GitHub Statistics" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paabloosaancheez&theme=github_dark" alt="GitHub Statistics" width="70%" />
 
 ## :globe_with_meridians: Connect With Me
 
